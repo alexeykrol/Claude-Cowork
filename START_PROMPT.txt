@@ -1,0 +1,1 @@
+Прочитай COWORK_INSTRUCTIONS.md и найди актуальный файл задач (tasks-*.md). Tailwind UI открыт и авторизован.

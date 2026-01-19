@@ -1,0 +1,18 @@
+# Claude-Cowork Bridge - Local Infrastructure
+# Эта папка НЕ должна быть в Git проектов
+
+# Task files (содержат project-specific задачи)
+tasks-*.md
+!tasks-template.md
+
+# Results (содержат код из Tailwind UI)
+results/*
+!results/.gitkeep
+
+# System files
+.DS_Store
+*.log
+
+# Временные файлы
+*.tmp
+*.bak
