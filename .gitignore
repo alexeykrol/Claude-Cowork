@@ -16,3 +16,5 @@ results/*
 # Временные файлы
 *.tmp
 *.bak
+.handoffs/local/
+.handoffs/*.local.md
